@@ -23,13 +23,14 @@
 ## 📂 프로젝트 구조 (Project Structure)
 ```text
 📂 nlp-foundations
-├── 📄 README.md
-├── 📄 .gitignore
-├── 📄 LICENSE
 ├── 📂 src
 │   ├── 📄 01_attention_scratch.py         # 어텐션 스코어 및 가중치 수학적 구현
 │   ├── 📄 02_pipeline_deconstruction.py    # 추론 파이프라인 단계별 수동 제어
 │   └── 📄 03_model_analysis_and_tuning.py      # 전이 학습 및 성능 최적화 프로세스
+├── 📄 .gitignore
+├── 📄 LICENSE
+├── 📄 README.md
+├── 📄 requirements.txt
 ```
 
 
