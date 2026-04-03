@@ -1,0 +1,11 @@
+# Core Scientific & ML Libraries
+numpy>=1.24.0
+torch>=2.0.0
+
+# Hugging Face Ecosystem
+transformers>=4.30.0
+datasets>=2.14.0
+evaluate>=0.4.0
+
+# Utilities
+tqdm>=4.65.0
