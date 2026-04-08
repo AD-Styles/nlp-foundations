@@ -6,9 +6,10 @@
 ![Transformers](https://img.shields.io/badge/Transformers-4.30%2B-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+---
 
 ## 📌 프로젝트 요약 (Project Overview)
-본 프로젝트는 자연어 처리(NLP) 모델의 '동작 원리 구현'과 '실무적 성능 최적화'를 입증하는 엔지니어링 포트폴리오입니다. 라이브러리에 의존하지 않는 **Attention 메커니즘의 수학적 설계**를 시작으로, **Hugging Face 추론 파이프라인의 내부 공정을 수동으로 해체**합니다. 최종적으로 사전 학습된 모델을 **전이 학습(Transfer Learning)을 통해 정확도를 50%에서 89%까지 개선**하고 모델의 사회적 편향성을 분석한 과정을 기록했습니다.
+본 프로젝트는 NLP 모델의 블랙박스를 해체하여 수학적 원리를 증명하고, 이를 실무적인 추론 공정과 성능 최적화로 연결하는 과정을 기록한 엔지니어링 포트폴리오입니다. 라이브러리 없이 구현한 Attention 메커니즘에서 시작하여, Hugging Face의 자동화된 추론 파이프라인을 단계별로 수동 제어합니다. 최종적으로 KLUE-BERT 모델을 NSMC 데이터에 맞춰 미세 조정(Fine-tuning)하여 정확도를 50%에서 89%까지 개선하고, 모델의 사회적 편향성을 분석했습니다.
 
 
 ## 🎯 핵심 목표 (Motivation)
