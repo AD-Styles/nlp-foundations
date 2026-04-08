@@ -1,4 +1,4 @@
-# 🧠 Deconstructing NLP: Mathematical Foundations & Transfer Learning Optimization.
+# 🧠 NLP Pipeline Deconstruction & KLUE-BERT Optimization (Acc 89%)
 > **Implementing Attention from Scratch, Pipeline Analysis, and Performance Engineering with KLUE-BERT**
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
