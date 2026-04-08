@@ -1,4 +1,4 @@
-# 🧠 NLP Pipeline Deconstruction & KLUE-BERT Optimization (Acc 89%)
+# 🧠 NLP Pipeline Deconstruction & KLUE-BERT Optimization
 > **Implementing Attention from Scratch, Pipeline Analysis, and Performance Engineering with KLUE-BERT**
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
