@@ -36,6 +36,7 @@
 ├── 📄 requirements.txt
 ```
 
+---
 
 ## 🛠️ 주요 알고리즘 및 기술적 구현 (Technical Implementation)
 
