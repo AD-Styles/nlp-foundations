@@ -41,7 +41,7 @@
 ## 🛠️ 주요 알고리즘 및 기술적 구현 (Technical Implementation)
 
 ### 1. Mathematical Reconstruction of Attention
-### Numpy를 활용해 어텐션 메커니즘의 연산 흐름을 재구성
+### (Numpy를 활용해 어텐션 메커니즘의 연산 흐름을 재구성)
 
 | 구현 단계 | 핵심 로직 및 수식 | 기술적 포인트 |
 | :--- | :--- | :--- |
@@ -50,7 +50,7 @@
 | **Step 3. Context** | $Context = Weight \cdot V$ | 가중치가 반영된 최종 문맥 벡터(Context Vector) 도출 |
 
 ### 2. Inference Pipeline Deconstruction
-### Hugging Face의 추론 과정을 설계
+### (Hugging Face의 추론 과정을 설계)
 
 | 프로세스 순서 | 수행 내용 | 활용 모듈 |
 | :--- | :--- | :--- |
@@ -59,7 +59,7 @@
 | **3. Activation** | Logits에 Softmax를 적용하여 최종 클래스별 신뢰도 확률 도출 | `torch.nn.functional.softmax` |
 
 ### 3. Performance Engineering: The 89% Accuracy Leap
-### 전이 학습 전후의 성능 지표 비교
+### (전이 학습 전후의 성능 지표 비교)
 
 | 분석 지표 | 학습 전 (Base Model) | 학습 후 (Fine-tuned) | 비고 |
 | :--- | :--- | :--- | :--- |
